@@ -1,2 +1,2 @@
 # stats220
-## This repo is used to upload stats220 assignment.
+This is my stats220 repo.
